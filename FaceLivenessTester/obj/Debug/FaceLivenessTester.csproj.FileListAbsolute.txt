@@ -1,0 +1,10 @@
+D:\Projects\FaceLivenessTester\FaceLivenessTester\bin\Debug\FaceLivenessTester.exe.config
+D:\Projects\FaceLivenessTester\FaceLivenessTester\bin\Debug\FaceLivenessTester.exe
+D:\Projects\FaceLivenessTester\FaceLivenessTester\bin\Debug\FaceLivenessTester.pdb
+D:\Projects\FaceLivenessTester\FaceLivenessTester\obj\Debug\FaceLivenessTester.csprojResolveAssemblyReference.cache
+D:\Projects\FaceLivenessTester\FaceLivenessTester\obj\Debug\FaceLivenessTester.Properties.Resources.resources
+D:\Projects\FaceLivenessTester\FaceLivenessTester\obj\Debug\FaceLivenessTester.csproj.GenerateResource.cache
+D:\Projects\FaceLivenessTester\FaceLivenessTester\obj\Debug\FaceLivenessTester.csproj.CoreCompileInputs.cache
+D:\Projects\FaceLivenessTester\FaceLivenessTester\obj\Debug\FaceLivenessTester.exe
+D:\Projects\FaceLivenessTester\FaceLivenessTester\obj\Debug\FaceLivenessTester.pdb
+D:\Projects\FaceLivenessTester\FaceLivenessTester\obj\Debug\FaceLivenessTester.fmMain.resources
