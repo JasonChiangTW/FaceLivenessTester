@@ -9,3 +9,5 @@
 
 3. 點選匯出產生結果html (預設位置為圖片檔資料夾內)
 
+FaceLivenessTester 資料夾與 FaceLivenessTester.sln 即為 Source Code，建議以 VS2017 開啟
+
